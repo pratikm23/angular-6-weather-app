@@ -2,11 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-##Purpose
-Purpose is to create a simple weather application using the open weather api using the angular 6 latest framework.
+## Purpose
+Purpose is to create a simple weather application using the open weather api using the angular 6 latest framework. The source will help anyone to get started with angular projects and get knowledge about connecting and using services
 The project uses `HttpClientModule` , `Bootstrap 4` , `Geolocation browser service`.
 It also uses observables for fetching the geolocation and handles errors nicely.
 
+## Screenshot
+![Alt text](img/1.JPG?raw=true "Screen")
 
 ##Prerequisites
 * Node 8.0 and greater
