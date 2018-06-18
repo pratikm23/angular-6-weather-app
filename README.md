@@ -8,7 +8,7 @@ The project uses `HttpClientModule` , `Bootstrap 4` , `Geolocation browser servi
 It also uses observables for fetching the geolocation and handles errors nicely.
 
 ## Screenshot
-![Alt text](img/1.JPG?raw=true "Screen")
+![1](https://user-images.githubusercontent.com/4025916/41533261-d1a9f204-7317-11e8-851a-49073b52e514.JPG)
 
 ##Prerequisites
 * Node 8.0 and greater
