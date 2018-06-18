@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -28,7 +28,7 @@
     "font-awesome": "^4.7.0",
     "path": "^0.12.7",
     "rxjs": "^6.2.1",
-    "typescript": "~2.7.2",
+    "typescript": "~2.7.0",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
