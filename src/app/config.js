@@ -1,6 +1,6 @@
 var config = {
     url: "http://api.openweathermap.org/data/2.5/forecast",
-    APPID: "ADD YOUR OPEN WEATHER API KEY "
+    APPID: "65745057c6b6de39c8932d9a607e5a0a"
 }
 
 export default config;
